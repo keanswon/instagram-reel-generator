@@ -1,0 +1,10 @@
+/venv
+*.mp4
+*.zip
+*.iso
+*.tar.gz
+*.log
+TODO.md
+zshrc
+.env
+__pycache__/
