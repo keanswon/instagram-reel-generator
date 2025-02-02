@@ -8,3 +8,4 @@ TODO.md
 zshrc
 .env
 __pycache__/
+.gitignore
